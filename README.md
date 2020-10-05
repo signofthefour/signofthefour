@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Dat. I'm a student in HCMUT👋
 
-- 🔭 I’m currently working on TTS
+- 🔭 I’m currently researching on Machine Learning
 - 🌱 I’m currently learning Computer Science, Speech Processing
 - 👯 I’m looking to collaborate on the road toward Machine Learning Expert
 - 🤔 I’m looking for help with my mess thinking :sad:
