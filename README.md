@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**signofthefour/signofthefour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ftshijt/ftshijt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm looking for collaborators on speech synthesis. Feel free to reach me at tandat.kaist \[at\] kaist.ac.kr for details.
+
+[![Ftshijt's GitHub stats](https://github-readme-stats.vercel.app/api?username=signofthefour&count_private=true&show_icons=true&theme=Gradient&include_all_commits=true&hide_title=false)
+](https://github.com/signofthefour)
+
+[![Top Langs for Ftshijt](https://github-readme-stats.vercel.app/api/top-langs/?username=signofthefour&layout=compact&theme=Gradient)](https://github.com/signofthefour)
+
+![](https://komarev.com/ghpvc/?username=signofthefour)
